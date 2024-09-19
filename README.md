@@ -4,7 +4,7 @@
 
 I'm currently pursing my Bachelor of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
 
-My Tech Stack 📚:
+##My Tech Stack 📚:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -14,7 +14,8 @@ My Tech Stack 📚:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-✨Lets Connect!✨
+#✨Lets Connect!✨
 http://www.linkedin.com/in/charlene-hanh-tran
 
-Check out my portfolio 👉🏻 https://charlenetran.vercel.app/ 
+#Check out my portfolio 👇🏻
+🌸 https://charlenetran.vercel.app/ 🌸
