@@ -1,3 +1,4 @@
+![Tech Stack Image](https://secure.static.tumblr.com/bbf74709318b33f84c22e3adeacfa95b/fsbsypl/Fvvojjy9f/tumblr_static_4wotou2bbvk08wk0gw4oc84k8.png)
 
 ![Tech Stack GIF](https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif)
 
