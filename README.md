@@ -4,7 +4,7 @@
 
 I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2dCE8W3WeY-sYwUwJYqPMB&ust=1726895551454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCxhb3h0IgDFQAAAAAdAAAAABAK
+![Cool GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gif-name.gif)
 
 ## My Tech Stack 📚:
 
