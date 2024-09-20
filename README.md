@@ -4,6 +4,8 @@
 
 I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2dCE8W3WeY-sYwUwJYqPMB&ust=1726895551454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCxhb3h0IgDFQAAAAAdAAAAABAK
+
 ## My Tech Stack 📚:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
