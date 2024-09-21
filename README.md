@@ -18,13 +18,12 @@ I'm currently pursing my Bachelor's of Science degree 🎓 at the California Sta
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    ### ✨ Let's Connect! ✨  
-    <br>
-    <a href="http://www.linkedin.com/in/charlene-hanh-tran">http://www.linkedin.com/in/charlene-hanh-tran</a>
+    <h3>✨Lets Connect!✨</h3>
+    <a href="http://www.linkedin.com/in/charlene-hanh-tran">LinkedIn</a>
   </div>
-  <div style="text-align: right;">
-    ### Check out my portfolio 👇🏻  
-    <br>
-    🌸 <a href="https://charlenetran.vercel.app/">https://charlenetran.vercel.app/</a> 🌸
+  <div>
+    <h3>Check out my portfolio 👇🏻</h3>
+    <a href="https://charlenetran.vercel.app/">🌸 Portfolio 🌸</a>
   </div>
 </div>
+
