@@ -16,5 +16,6 @@ I'm currently pursing my Bachelor's of Science degree 🎓 at the California Sta
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### ✨ Let's Connect! ✨
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/charlene-hanh-tran)        [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://charlenetran.vercel.app/)
+### ✨Lets Connect!✨              ### Check out my portfolio 👇🏻
+http://www.linkedin.com/in/charlene-hanh-tran      🌸 https://charlenetran.vercel.app/ 🌸
+
