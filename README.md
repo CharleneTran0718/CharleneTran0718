@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  # Welcome to my page!!! My name is Charlene 👩🏻‍💻
+  <h1>Welcome to my page!!! My name is Charlene 👩🏻‍💻</h1>
 </p>
 
 I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
