@@ -6,7 +6,9 @@
   ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 </p>
 
-# Welcome to my page!!! My name is Charlene 👩🏻‍💻
+<p align="center">
+  # Welcome to my page!!! My name is Charlene 👩🏻‍💻
+</p>
 
 I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
 
