@@ -11,7 +11,7 @@
 I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
 
 
-## <div style="display: flex; align-items: center;"> My Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" style="margin-left: 10px; position: relative; top: 5px;" /> </div>
+## <div style="display: flex; align-items: center;"> My Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" style="margin-left: 15px; position: relative; top: 15px;" /> </div>
 
 
 
