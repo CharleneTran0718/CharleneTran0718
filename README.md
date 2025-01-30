@@ -8,7 +8,11 @@
 
 <h1 align="center">Welcome to my page!!! My name is Charlene 👩🏻‍💻</h1>
 
-I'm currently pursing my Bachelor's of Science degree 🎓 at the California State University of Long Beach as a Computer Science undergraduate.
+As a recent graduate 🎓 with a Bachelor's degree in Computer Science, I have built a solid foundation in software engineering through hands-on experience with both front-end and back-end technologies. I’ve gained proficiency in languages such as Python, Java, C#, JavaScript, and SQL, and have experience working with NoSQL databases like MongoDB and Supabase.
+
+In my development journey, I’ve mastered React, React Native, and Next.js for building responsive, user-centric applications. On the back-end, I’ve worked with Python, Java, and C to design and optimize APIs and improve database performance. Additionally, I am experienced in using cloud platforms like Azure and AWS to deploy and scale applications, and version control systems like Git and GitHub to collaborate and manage code efficiently.
+
+Beyond coding, I’ve used tools like Jira, SharePoint, and TeamDynamix for project management and documentation, and I am well-versed in systems management with Active Directory and VMware. Driven by a passion for problem-solving and continuous learning, I aim to combine my skills in both front-end and back-end development to contribute to impactful software engineering projects.
 
 
 ## <div style="display: flex; align-items: center;"> My Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" style="margin-left: 10px; vertical-align: middle;" /> </div>
